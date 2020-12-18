@@ -1,0 +1,221 @@
+.navbar
+{
+    padding: 15px 0px;     
+    border-bottom: none !important;
+    transition: all 0.5s ease-in-out;
+}
+.navbar .navbar-brand
+{
+    padding: 0px;
+}
+.navbar ul li a
+{
+    color: white !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px; 
+    font-size: 13px;
+    transition: all 0.5s ease-in;
+      
+}
+
+.navbar ul li a:hover, .navbar ul li a:focus
+{
+    color: deepskyblue !important;
+    background: none !important;
+}
+
+.navbar-toggle
+{
+    border: 1px solid  !important;
+    color: white !important;
+    transition: all 0.5s ease-in;
+}
+
+
+.navbar-toggle:hover
+{
+    background-color: deepskyblue !important;
+}
+
+ 
+.navbar-inverse .navbar-collapse
+{
+  border-color: transparent !important;  
+       
+}
+
+  
+.location
+{
+    border: 1px solid white;
+    border-radius: 50px;
+    background: deepsky;
+    
+}
+
+.navbar-inverse
+{
+    background-color:transparent !important;
+}  
+.slider
+{
+    width: 100%;
+    height: 789px;
+    background-image: url(..//img/slider.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+    
+}
+.slider-overlay
+{
+    width: 100%;
+    height: 100%;
+    background:rgba(0,0,0,0.65);
+    position: relative;
+}
+
+.btn1
+{
+    padding: 13px 18px;
+    background-color: transparent;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    transition: all 0.5s ease-in;
+    margin-right:10px;
+}
+
+
+.btn1:hover
+{
+    text-decoration: none;
+    color: white;
+    background-color: deepskyblue;
+    border-color: deepskyblue;
+    
+}
+
+
+.btn2
+{
+    padding: 13px 18px;
+    background-color: transparent;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    transition: all 0.5s ease-in;
+    margin-right:10px;
+}
+
+
+
+.btn2:hover
+{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    border-color: orangered;
+    
+}
+.btn3
+{
+    padding: 13px 18px;
+    background-color: transparent;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    transition: all 0.5s ease-in;
+    margin-right:10px;
+}
+
+
+.btn3:hover
+{
+    text-decoration: none;
+    color: white;
+    background-color: deepskyblue !important;
+    border-color: deepskyblue;
+    
+}
+.btn4
+{
+    padding: 13px 18px;
+    background-color: transparent;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    transition: all 0.5s ease-in;
+    margin-right:10px;
+}
+
+
+.btn4:hover
+{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    border-color: orangered;
+    
+}
+.btn5
+{
+    padding: 13px 18px;
+    background-color: transparent;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    transition: all 0.5s ease-in;
+    margin-right:10px;
+}
+
+
+.btn5:hover
+{
+    text-decoration: none;
+    color: white;
+    background-color: deepskyblue;
+    border-color: deepskyblue;
+    
+}
+.btn6
+{
+    padding: 13px 18px;
+    background-color: transparent;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    transition: all 0.5s ease-in;
+    margin-right:10px;
+}
+
+
+.btn6:hover
+{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    border-color: orangered;
+    
+}
+
+.text-rapoarte
+{
+    color: wheat
+}
+
+.rapoarte
